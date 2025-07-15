@@ -1,3 +1,3 @@
 # rohanxdev
 This is my frist Git Repository.
-<br> Auther-Rohan Sable
+Auther-Rohan Sable
