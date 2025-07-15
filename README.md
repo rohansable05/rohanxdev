@@ -1,2 +1,2 @@
 # rohanxdev
-This is my frist repository.
+This is my frist Git Repository.
